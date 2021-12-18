@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/17 15:59:35.000.494,=C:\Users\apsilva\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/12/17 16:02:06.000.750,C:\Fortes\Forms\uPrincipal.pas=C:\Users\apsilva\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/12/17 16:02:06.000.750,C:\Fortes\Forms\uPrincipal.dfm=C:\Users\apsilva\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2021/12/17 16:02:19.000.910,C:\Fortes\Controle_Posto.dproj=C:\Users\apsilva\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2021/12/17 17:32:56.000.879,=C:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/12/17 17:33:33.000.415,C:\Fortes\DataModule\UDM.dfm=C:\Fortes\Unit1.dfm</Transaction>
+    <Transaction>2021/12/17 17:33:33.000.415,C:\Fortes\DataModule\UDM.pas=C:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/12/17 18:02:13.000.311,=C:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/12/17 18:03:55.000.137,C:\Fortes\Forms\UControleAbastecimento.pas=C:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/12/17 18:03:55.000.137,C:\Fortes\Forms\UControleAbastecimento.dfm=C:\Fortes\Unit1.dfm</Transaction>
+    <Transaction>2021/12/18 07:26:42.000.574,=C:\Fortes\Functions\uFormat.pas</Transaction>
+    <Transaction>2021/12/18 13:01:02.352,=C:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/12/18 13:03:54.486,C:\Fortes\Forms\URelatorioMov.pas=C:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/12/18 13:03:54.486,C:\Fortes\Forms\URelatorioMov.dfm=C:\Fortes\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
